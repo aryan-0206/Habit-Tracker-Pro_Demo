@@ -1,9 +1,5 @@
 # ⚡ Habit Tracker Pro
 
-<p align="center">
-  <img src="static/img/logo.svg" alt="HabitPro Logo" width="120px" height="120px">
-</p>
-
 <h3 align="center">Habit Tracker Pro</h3>
 
 <p align="center">
